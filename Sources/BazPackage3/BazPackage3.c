@@ -11,7 +11,7 @@
 
 void baz() {
     struct MyPoint s;
-    s.x = 8
+    s.x = 8;
     
 
     printf("baz struct with value %d\n", s.x);
